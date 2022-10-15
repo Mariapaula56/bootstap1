@@ -1,0 +1,11 @@
+body {
+  background: #bae8e8;
+}
+
+#Description {
+  resize: none;
+}
+.centrado {
+  text-align: center;
+  vertical-align: middle;
+}

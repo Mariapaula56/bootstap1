@@ -1,0 +1,10 @@
+bootstrap maneja cuatro tamaños de pantalla 
+
+sm: small
+md: medium
+lg: large
+xl: extralarge
+
+
+col.md.4 
+para las pantallas medium quiero un esacio de 4
